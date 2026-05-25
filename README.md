@@ -53,4 +53,3 @@ Variable objetivo: Default (1 = incumplimiento, 0 = no incumplimiento)
 
 El dataset contiene información demográfica, financiera y crediticia de clientes, incluyendo ingresos, monto del préstamo, tasa de interés, historial crediticio y variables relacionadas con el comportamiento de pago.
 https://www.kaggle.com/datasets/nikhil1e9/loan-default
-Este conjunto de datos contiene información financiera del prestatario y atributos del préstamo utilizados para construir un modelo predictivo de incumplimiento del préstamo.
