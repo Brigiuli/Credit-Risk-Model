@@ -34,14 +34,7 @@ El proyecto incluye varios enfoques de ciencia de datos:
 * Variables como ingresos, DTI ratio y credit score fueron determinantes para la predicción.
 
 ## Herramientas Utilizadas
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Google Colab
-* KaggleHub
+Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Google Colab | Kaggle
 
 ## Conjunto de Datos
 Fuente: Kaggle
