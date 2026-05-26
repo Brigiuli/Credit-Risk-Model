@@ -16,7 +16,7 @@ Analizar métricas de desempeño del modelo.
 Generar insights para apoyar decisiones del negocio.
 
 ## Metodología
-El proyecto incluye varios enfoques de ciencia de datos:
+El proyecto incluye:
 * Descarga y carga del dataset desde Kaggle.
 * Limpieza y preparación de datos.
 * Análisis exploratorio de datos (EDA).
